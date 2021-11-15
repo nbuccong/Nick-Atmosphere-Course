@@ -1,7 +1,6 @@
 ## Nick-Atmosphere-Course
 
-While researching for my presentation on "Why is the Skye Blue?" I found a number of relevant sources. 
-The most useful of which I have listed below.
+Files located in this repository include my powerpoint slides titled "Why is the Sky Blue," my reflection on all of the presentations titled "Atmosphere Reflection PDF" and a list of the most relecvant sources that I found/referenced when researching my topic. This list is as follows:
 
 
 Why is the Sky Blue? Summary (Read First)
